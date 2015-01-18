@@ -1,0 +1,5 @@
+charset,Shift_JIS
+name,GitHubテストゴースト
+type,ghost
+directory,test_rep
+refresh,0

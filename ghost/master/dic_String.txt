@@ -12,7 +12,7 @@
 　　１行目に「-」とだけ記入すると、罫線を入れられます。
 
 ＠homeurl
-https://raw.githubusercontent.com/kanadelab/test_rep/
+https://raw.githubusercontent.com/kanadelab/test_rep/master/
 ＃ネットワーク更新時にアクセスするアドレス。
 ＃フォルダ名を記述、最後に/をつけてください。例のような形になります。
 ＃例）http://satolist.sakura.ne.jp/satolist_template/
